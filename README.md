@@ -608,16 +608,37 @@ module.exports = db;
 
 <br>
 :triangular_flag_on_post: Postman: 
-<img src="https://github.com/Gregdev22/Missao-2-Mundo-4/blob/main/explore_mundov2/images/MP%201.png" alt="resultado 1" width="640" height="360">
-<img src="https://github.com/Gregdev22/Missao-2-Mundo-4/blob/main/explore_mundov2/images/Home%201.png" alt="resultado 1" width="640" height="360">
-<img src="https://github.com/Gregdev22/Missao-2-Mundo-4/blob/main/explore_mundov2/images/Home%202.png" alt="resultado 1" width="640" height="360">
-<img src="https://github.com/Gregdev22/Missao-2-Mundo-4/blob/main/explore_mundov2/images/Home%203.png" alt="resultado 1" width="640" height="360">
-<img src="https://github.com/Gregdev22/Missao-2-Mundo-4/blob/main/explore_mundov2/images/Contatos.png" alt="resultado 1" width="640" height="360">
-<img src="https://github.com/Gregdev22/Missao-2-Mundo-4/blob/main/explore_mundov2/images/Sobrenos.png" alt="resultado 1" width="640" height="360">
-<img src="https://github.com/Gregdev22/Missao-2-Mundo-4/blob/main/explore_mundov2/images/Destino%201.png" alt="resultado 1" width="640" height="360">
-<img src="https://github.com/Gregdev22/Missao-2-Mundo-4/blob/main/explore_mundov2/images/Destino%202.png" alt="resultado 1" width="640" height="360">
-<img src="https://github.com/Gregdev22/Missao-2-Mundo-4/blob/main/explore_mundov2/images/Pesquisa%201.png" alt="resultado 1" width="640" height="360">
-<img src="https://github.com/Gregdev22/Missao-2-Mundo-4/blob/main/explore_mundov2/images/Pesquisa%202.png" alt="resultado 1" width="640" height="360">
-<img src="" alt="resultado 1" width="640" height="360">
+<h3>Login como Adm </h3>
+<img src="Missao Pratica/resultados/Login sucesso.png" alt="resultado 1" width="640" height="360">
+
+<h3>Login como Adm  - Senha Invalida </h3>
+<img src="Missao Pratica/resultados/Login invalid password.png" alt="resultado 1" width="640" height="360">
+
+<h3>Dados do Adm logado </h3>
+<img src="Missao Pratica/resultados/dados adm logado.png" alt="resultado 1" width="640" height="360">
+
+<h3>Contrato empresas </h3>
+<img src="Missao Pratica/resultados/contrato empresa 1.png" alt="resultado 1" width="640" height="360">
+<img src="Missao Pratica/resultados/contrato empresa 2.png" alt="resultado 1" width="640" height="360">
+
+<h3> Dados dos usuarios </h3>
+<img src="Missao Pratica/resultados/usuarios 1.png" alt="resultado 1" width="640" height="360">
+<img src="Missao Pratica/resultados/usuarios 2.png" alt="resultado 1" width="640" height="360">
+
+<h3>Token Invalido </h3>
+<img src="Missao Pratica/resultados/invalid token.png" alt="resultado 1" width="640" height="360">
+
+<h3>Token não informado </h3>
+<img src="Missao Pratica/resultados/Token not provided.png" alt="resultado 1" width="640" height="360">
+
+<h3>Login como usuario </h3>
+<img src="Missao Pratica/resultados/login usuario.png" alt="resultado 1" width="640" height="360">
+
+<h3> Dados do usuario logado </h3>
+<img src="Missao Pratica/resultados/usuario logado.png" alt="resultado 1" width="640" height="360">
+
+<h3>Consultas proibidas para usuarios </h3>
+<img src="Missao Pratica/resultados/contrato admin only.png" alt="resultado 1" width="640" height="360">
+<img src="Missao Pratica/resultados/forbideen admins only.png" alt="resultado 1" width="640" height="360">
 
 <br>
