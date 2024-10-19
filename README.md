@@ -601,3 +601,23 @@ module.exports = db;
 	]
 }
 ```
+<br>
+  <hr>
+  
+<h1>Resultados: </h1>
+
+<br>
+:triangular_flag_on_post: Postman: 
+<img src="https://github.com/Gregdev22/Missao-2-Mundo-4/blob/main/explore_mundov2/images/MP%201.png" alt="resultado 1" width="640" height="360">
+<img src="https://github.com/Gregdev22/Missao-2-Mundo-4/blob/main/explore_mundov2/images/Home%201.png" alt="resultado 1" width="640" height="360">
+<img src="https://github.com/Gregdev22/Missao-2-Mundo-4/blob/main/explore_mundov2/images/Home%202.png" alt="resultado 1" width="640" height="360">
+<img src="https://github.com/Gregdev22/Missao-2-Mundo-4/blob/main/explore_mundov2/images/Home%203.png" alt="resultado 1" width="640" height="360">
+<img src="https://github.com/Gregdev22/Missao-2-Mundo-4/blob/main/explore_mundov2/images/Contatos.png" alt="resultado 1" width="640" height="360">
+<img src="https://github.com/Gregdev22/Missao-2-Mundo-4/blob/main/explore_mundov2/images/Sobrenos.png" alt="resultado 1" width="640" height="360">
+<img src="https://github.com/Gregdev22/Missao-2-Mundo-4/blob/main/explore_mundov2/images/Destino%201.png" alt="resultado 1" width="640" height="360">
+<img src="https://github.com/Gregdev22/Missao-2-Mundo-4/blob/main/explore_mundov2/images/Destino%202.png" alt="resultado 1" width="640" height="360">
+<img src="https://github.com/Gregdev22/Missao-2-Mundo-4/blob/main/explore_mundov2/images/Pesquisa%201.png" alt="resultado 1" width="640" height="360">
+<img src="https://github.com/Gregdev22/Missao-2-Mundo-4/blob/main/explore_mundov2/images/Pesquisa%202.png" alt="resultado 1" width="640" height="360">
+<img src="" alt="resultado 1" width="640" height="360">
+
+<br>
