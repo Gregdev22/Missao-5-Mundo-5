@@ -617,6 +617,12 @@ module.exports = db;
 <h3>Dados do Adm logado </h3>
 <img src="Missao Pratica/resultados/dados adm logado.png" alt="resultado 1" width="640" height="360">
 
+<h3>Token Invalido </h3>
+<img src="Missao Pratica/resultados/invalid token.png" alt="resultado 1" width="640" height="360">
+
+<h3>Token não informado </h3>
+<img src="Missao Pratica/resultados/Token not provided.png" alt="resultado 1" width="640" height="360">
+
 <h3>Contrato empresas </h3>
 <img src="Missao Pratica/resultados/contrato empresa 1.png" alt="resultado 1" width="640" height="360">
 <img src="Missao Pratica/resultados/contrato empresa 2.png" alt="resultado 1" width="640" height="360">
@@ -624,12 +630,6 @@ module.exports = db;
 <h3> Dados dos usuarios </h3>
 <img src="Missao Pratica/resultados/usuarios 1.png" alt="resultado 1" width="640" height="360">
 <img src="Missao Pratica/resultados/usuarios 2.png" alt="resultado 1" width="640" height="360">
-
-<h3>Token Invalido </h3>
-<img src="Missao Pratica/resultados/invalid token.png" alt="resultado 1" width="640" height="360">
-
-<h3>Token não informado </h3>
-<img src="Missao Pratica/resultados/Token not provided.png" alt="resultado 1" width="640" height="360">
 
 <h3>Login como usuario </h3>
 <img src="Missao Pratica/resultados/login usuario.png" alt="resultado 1" width="640" height="360">
